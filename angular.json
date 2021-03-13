@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularGuru"
+    }
+  },
+  "defaultProject": "AngularGuru",
+  "cli": {
+    "analytics": false
+  }
 }
